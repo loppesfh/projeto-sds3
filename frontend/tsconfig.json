@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./src",
+    "baseUrl": "./src",    // Configuração para "otimizar" as rotas
     "target": "es5",
     "lib": [
       "dom",
